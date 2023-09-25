@@ -47,9 +47,9 @@ pragma solidity 0.8.18;
 contract MyToken {
 
     // public variables here
-    string public tokenname="monster";
-    string public tokenabbrv="MTR";
-    uint public totalsupply=1000;
+    string public tokenname="BIG BOSS";
+    string public tokenabbrv="BB";
+    uint public totalsupply=3000;
     // mapping variable here
     mapping(address => uint)public balance;
     // mint function
